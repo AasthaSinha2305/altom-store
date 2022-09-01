@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/AasthaSinha2305/altom-store/issues"
   },
-  "homepage": "https://github.com/AasthaSinha2305/altom-store#readme"
+  "homepage": "https://github.com/AasthaSinha2305/altom-store#readme",
+  "dependencies": {
+    "debug": "^4.3.4"
+  }
 }
