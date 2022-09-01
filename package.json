@@ -4,7 +4,7 @@
   "description": "# Lessons",
   "main": "index.js",
   "engines": {
-    "node": "16.x"
+    "node": "17.x"
   },
   "scripts": {
     "build": "cd backend && npm install  && cd ../frontend && npm install && npm run build",
